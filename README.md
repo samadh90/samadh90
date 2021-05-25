@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Emplettes.be](https://www.emplettes.be/) & [Lemka.be](https://www.lemka.be/)
 
-- 🌱 I’m currently learning **ASP.NET Core, Blazor**
+- 🌱 I’m currently learning **ASP.NET Core, Blazor and Angular**
 
 - 💬 Ask me about **VueJS, Django, RESTful**
 
