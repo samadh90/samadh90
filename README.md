@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **VueJS, Django, RESTful**
 
-- ⚡ Fun fact **I think I thirst for knowledge**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samad-hatsijev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="samad-hatsijev" height="30" width="40" /></a>
