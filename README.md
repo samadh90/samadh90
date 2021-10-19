@@ -47,5 +47,4 @@ Front-End Development
 - VueJS
 - JQuery
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact" alt="crysis90war" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact" alt="Samad Hatsijev"/></p>
