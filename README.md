@@ -5,7 +5,6 @@
 
 - I’ve worked on [Emplettes.be](https://www.emplettes.be/) & [Lemka.be](https://www.lemka.be/)
 - I'm in the process of improving my knowledge in **.NET Core, Angular**
-
 - Ask me about **.NET, Angular, Django, VueJS**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,3 +26,4 @@
 |                                         | ASP with MVC                            | Xamarin                              |                                |
 |                                         |                                         | Security in the .NET framework       |                                |
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact" alt="Samad Hatsijev"/></p>
