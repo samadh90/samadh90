@@ -27,4 +27,3 @@
 |                                         | ASP with MVC                            | Xamarin                              |                                |
 |                                         |                                         | Security in the .NET framework       |                                |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact" alt="Samad Hatsijev"/></p>
