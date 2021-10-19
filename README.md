@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat" alt="crysis90war" /> </p>
 
 - I’ve worked on [Emplettes.be](https://www.emplettes.be/) & [Lemka.be](https://www.lemka.be/)
-
-- I’m currently learning **.NET Core, Angular**
+- I'm in the process of improving my knowledge in **.NET Core, Angular**
 
 - Ask me about **.NET, Angular, Django, VueJS**
 
@@ -18,33 +17,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Data manipulation
-
-- Relational modeling and denormalization
-- Development in declarative SQL
-- Development in procedural SQL
-
-Back-End Development
-- Algorithmic in C#
-- Programming in C#
-- Database connectivity with ADO and LINQ
-- Entity framework
-- WPF with MVVM
-- ASP with MVC
-
-Advanced Aspects of .NET Development
-- Design with Design Patterns
-- Web API and .NET
-- Deployment under AZURE
-- SignalR
-- .NET Core: C# and ASP
-- Xamarin
-- Security in the .NET framework
-
-Front-End Development
-- HTML5/CSS3/JavaScript: advanced aspects
-- Angular for the .NET framework 
-- VueJS
-- JQuery
+| Data manipulation                       | Back-End Development                    | Advanced Aspects of .NET Development | Front-End Development          |
+|-----------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------|
+| Relational modeling and denormalization | Algorithmic in C#                       | Design with Design Patterns          | HTML5/CSS3: advanced aspects   |
+| Development in declarative SQL          | Programming in C#                       | Web API and .NET                     | Angular for the .NET framework |
+| Development in procedural SQL           | Database connectivity with ADO and LINQ | Deployment under AZURE               | VueJS                          |
+|                                         | Entity framework                        | SignalR                              | JQuery                         |
+|                                         | WPF with MVVM                           | .NET Core: C# and ASP                | JavaScript                     |
+|                                         | ASP with MVC                            | Xamarin                              |                                |
+|                                         |                                         | Security in the .NET framework       |                                |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact" alt="Samad Hatsijev"/></p>
