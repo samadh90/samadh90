@@ -7,6 +7,8 @@
 - I'm in the process of improving my knowledge in **.NET Core, Angular**
 - Ask me about **.NET, Angular, Django, VueJS**
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=fr&layout=compact" alt="Samad Hatsijev"/></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samad-hatsijev" target="blank">
@@ -25,5 +27,3 @@
 |                                         | WPF with MVVM                           | .NET Core: C# and ASP                | JavaScript                     |
 |                                         | ASP with MVC                            | Xamarin                              |                                |
 |                                         |                                         | Security in the .NET framework       |                                |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=fr&layout=compact" alt="Samad Hatsijev"/></p>
