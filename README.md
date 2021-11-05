@@ -8,9 +8,13 @@
 - I'm in the process of improving my knowledge in **.NET Core, Angular**
 - Ask me about **.NET, Angular, Django, VueJS**
 
-![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=fr&layout=compact)
+## Connect with me
+
+<a href="https://linkedin.com/in/samad-hatsijev" target="blank">![samad-hatsijev](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Languages and Tools
+
+![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=fr&layout=compact)
 
 | Data manipulation                       | Back-End Development                    | Advanced Aspects of .NET Development | Front-End Development          |
 |-----------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------|
@@ -22,6 +26,4 @@
 |                                         | ASP with MVC                            | Xamarin                              |                                |
 |                                         |                                         | Security in the .NET framework       |                                |
 
-## Connect with me
 
-<a href="https://linkedin.com/in/samad-hatsijev" target="blank">![samad-hatsijev](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
