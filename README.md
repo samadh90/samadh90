@@ -14,7 +14,7 @@
 
 ## Languages and Tools
 
-![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=fr&layout=compact)
+![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact)
 
 | Data manipulation                       | Back-End Development                    | Advanced Aspects of .NET Development | Front-End Development          |
 |-----------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------|
