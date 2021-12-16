@@ -6,7 +6,7 @@
 
 - I’ve worked on [Emplettes.be](https://www.emplettes.be/) & [Lemka.be](https://www.lemka.be/)
 - I'm in the process of improving my knowledge in **.NET Core, Angular**
-- Ask me about **.NET, Angular, Django, VueJS**
+- Ask me about **.NET, Angular, Vue**
 
 ## Connect with me
 
