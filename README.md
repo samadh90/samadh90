@@ -5,7 +5,7 @@
 ![crysis90war](https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat)
 
 - I’ve worked on [Emplettes.be](https://www.emplettes.be/) & [Lemka.be](https://www.lemka.be/)
-- I'm in the process of improving my knowledge in **.NET Core, Angular**
+- I'm in the process of improving my knowledge in **.NET, Angular and Vue**
 - Ask me about **.NET, Angular, Vue**
 
 ## Connect with me
