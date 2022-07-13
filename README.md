@@ -16,6 +16,8 @@
 
 ![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact)
 
+<!--
+
 | Data manipulation                       | Back-End Development                    | Advanced Aspects of .NET Development | Front-End Development          |
 |-----------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------|
 | Relational modeling and denormalization | Algorithmic in C#                       | Design with Design Patterns          | HTML5/CSS3: advanced aspects   |
@@ -26,4 +28,4 @@
 |                                         | ASP with MVC                            | Xamarin                              |                                |
 |                                         |                                         | Security in the .NET framework       |                                |
 
-
+-->
