@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Samad Hatsijev</h1>
-<h3 align="center">A passionate frontend/backend developer from Belgium</h3>
-
-
-![crysis90war](https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat)
-
-- I’ve worked on [Emplettes.be](https://www.emplettes.be/) & [Lemka.be](https://www.lemka.be/)
-- I'm in the process of improving my knowledge in **.NET, Angular and Vue**
-- Ask me about **.NET, Angular, Vue**
-
 ## Connect with me
 
 <a href="https://linkedin.com/in/samad-hatsijev" target="blank">![samad-hatsijev](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -15,6 +5,8 @@
 ## Languages and Tools
 
 ![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact)
+
+![crysis90war](https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 
