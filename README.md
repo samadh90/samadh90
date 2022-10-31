@@ -6,7 +6,7 @@
 
 ## Languages and Tools
 
-![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=crysis90war&show_icons=true&locale=en&layout=compact)
+![Samad Hatsijev](https://github-readme-stats.vercel.app/api/top-langs?username=samadh90&show_icons=true&locale=en&layout=compact)
 
 ![crysis90war](https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat)
 
