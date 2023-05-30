@@ -1,4 +1,6 @@
-## Connect with me ![crysis90war](https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat)
+![crysis90war](https://komarev.com/ghpvc/?username=crysis90war&label=Profile%20views&color=0e75b6&style=flat)
+
+## Connect with me
 
 <a href="https://discord.gg/qCmfVFT3Ud" target="_blank">![discord-server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
