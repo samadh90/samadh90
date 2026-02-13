@@ -32,15 +32,4 @@ My approach combines **clarity, automation, and maintainability**, with a passio
 
 </div>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samadh90&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadh90&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  
-  >“Architecture is not about building features fast — it’s about building them to last.”</em>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=samadh90&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
+<div align="center">“Architecture is not about building features fast — it’s about building them to last.”</em></div>
